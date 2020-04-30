@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tweeter</string>
+    <string name="sample_button">Sample</string>
+    <string name="result_text">Class of Bird: </string>
+    <string name="submit_button">Submit</string>
+    <string name="clip_button">Clip</string>
+</resources>
